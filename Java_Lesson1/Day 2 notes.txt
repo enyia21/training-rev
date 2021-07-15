@@ -1,0 +1,4 @@
+git branch "branch 1"
+--git branch allows you to create a branch
+git branch - b "branch 1" 
+--this allows you to create a branch and checkout into that branch.
