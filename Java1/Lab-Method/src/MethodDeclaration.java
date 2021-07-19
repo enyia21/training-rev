@@ -10,3 +10,4 @@ public class MethodDeclaration {
 		System.out.println("Inside of the talk method");
 	}
 }
+

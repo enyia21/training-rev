@@ -4,7 +4,7 @@ public class ExampleOne {
 		boolean on = true;
 		while (on) {
 			System.out.println("Inside the while loop");
-//			on = false;
+			on = false;
 		}
 	}
 }
